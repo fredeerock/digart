@@ -1,1 +1,1 @@
-# mygithubpage
+# DigArt
